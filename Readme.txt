@@ -1,4 +1,4 @@
--- 记录首个症状出现的时间确定t_f
+-- 记录首个症状出现的时间t_f
 
 -- 由确定的施加故障的时间t_f确定系统运行的阶段，(Einfahren t_f < 12, Stillstand, Ausfahren t_f > 14s)
 
